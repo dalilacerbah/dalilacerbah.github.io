@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://www.numerama.com/wp-content/uploads/2016/07/espace.jpg);
+    background-color: rgb(41, 36, 36);
     padding-left: 200px;
     padding-right: 200px;
     margin-top: 30px;
@@ -7,7 +7,7 @@ body {
 }
 
 .entete {
-    background-color: lightgrey;
+    background-color: rgb(145, 142, 161);
     margin: 0 20px 0 20px;
     padding: 10px 0 10px 0;
     border-bottom: 2px solid black;
@@ -38,7 +38,7 @@ body {
 }
 
 .content {
-    background-color: lightgrey;
+    background-color: rgb(145, 142, 161);;
     height: 500px;
     display: flex;
     justify-content: flex-start;
@@ -50,7 +50,7 @@ body {
 .left-contact,
 .education,
 .expertise {
-    border: 1px solid black;  
+    border: 2px solid black;  
     margin: 40px 10px 10px 10px ;
     padding: 10px 10px 20px 10px;
     border-radius: 40%;
@@ -88,4 +88,5 @@ div:hover {
     zoom: 1.5;
     overflow: hidden;
 }
+
 
